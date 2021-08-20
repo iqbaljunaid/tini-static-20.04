@@ -1,0 +1,10 @@
+/home/jiqbal/repo/tini/build/CMakeFiles/install/strip.dir
+/home/jiqbal/repo/tini/build/CMakeFiles/edit_cache.dir
+/home/jiqbal/repo/tini/build/CMakeFiles/package_source.dir
+/home/jiqbal/repo/tini/build/CMakeFiles/install.dir
+/home/jiqbal/repo/tini/build/CMakeFiles/list_install_components.dir
+/home/jiqbal/repo/tini/build/CMakeFiles/rebuild_cache.dir
+/home/jiqbal/repo/tini/build/CMakeFiles/package.dir
+/home/jiqbal/repo/tini/build/CMakeFiles/tini-static.dir
+/home/jiqbal/repo/tini/build/CMakeFiles/install/local.dir
+/home/jiqbal/repo/tini/build/CMakeFiles/tini.dir

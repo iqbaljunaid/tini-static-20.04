@@ -1,7 +1,7 @@
-FROM ubuntu:xenial
+FROM ubuntu:20.04
 
 ARG ARCH_SUFFIX
-
+ENV DEBIAN_FRONTEND="noninteractive"
 COPY ci/install_deps.sh /install_deps.sh
 RUN /install_deps.sh
 

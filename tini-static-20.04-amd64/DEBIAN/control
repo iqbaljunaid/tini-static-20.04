@@ -1,0 +1,5 @@
+Package: tini-static-20.04
+Version: 1.0
+Architecture: amd64
+Maintainer: Groke Technologies Oy <ino@groke-tech.com>
+Description: Tini is the simplest init you could think of. All Tini does is spawn a single child (Tini is meant to be run in a container), and wait for it to exit all the while reaping zombies and performing signal forwarding.
